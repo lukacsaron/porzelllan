@@ -1,0 +1,1 @@
+<div class="eltd-post-info-comments-holder"><a class="eltd-post-info-comments" href="<?php comments_link(); ?>" target="_self"><?php comments_number('0 ' . esc_html__('Comments','chandelier'), '1 '.esc_html__('Comment','chandelier'), '% '.esc_html__('Comments','chandelier') ); ?></a></div>

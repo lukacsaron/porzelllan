@@ -1,0 +1,61 @@
+1.7
+- Added WooCommerce 3.1.1 compatibility
+- Updated Visual Composer to 5.2
+- Fixed https problem with links
+
+1.6
+- Added WooCommerce 2.6.11 compatibility
+- Updated Elated CPT plugin to 1.1.1
+- Updated FontAwesome Icons Pack to 4.7.0
+
+1.5
+- Added WooCommerce 2.6.8 compatibility
+- Updated Visual Composer to 5.0.1
+- Updated Elated CPT plugin to 1.1
+- Fixed dynamic style scripts loading
+- Fixed boxed layout styles
+
+1.4.1
+- Updated translation files
+
+1.4
+- Added WooCommerce 2.6.5 compatibility
+- Added Google Maps API key in Elated Options -> General
+- Updated Visual Composer to 4.12.1
+- Updated FontAwesome Icons Pack to 4.6.3
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed closing Order List shortcode using Elated shortcodes button
+
+1.3.1
+- Updated Woocommerce template files for 2.6.4 comptibility
+- Fixed Woocommerce Price filter
+- Fixed Page Background Image on single pages
+- Fixed Elated slider video slide issue
+1.3
+- Added Compatibility with Woocommerce 2.6.1
+- Updated Visual Composer to version 4.12
+- Fixed Facebook and Twitter Social Share
+- Fixed issue with Lightbox option in image gallery
+- Fixed issue with portfolio navigation through same category
+
+1.2.1
+- Fixed switch statement in Header template files
+- Updated Visual Composer to version 4.11.2.1
+
+1.2
+- Added Compatibility with WordPress 4.5
+- Updated Visual Composer to version 4.11.1
+
+1.1
+- Fixed bug with portfolio filter on masonry and pinterest portfolio lists
+- Updated Visual Composer to version 4.9.1
+- Updated Elated Core plugin to version 1.0.1
+- Updated Elated Instagram Feed plugin to version 1.0.1
+- Fixed bug with scrolling on Firefox
+- Fixed bug with deleting custom sidearea
+- Fixed bug with custom background color
+- Fixed bug with portfolio external link
+- Fixed bug with Instagram connect button
+- Fixed bug with archive pages
+- Fixed bug with testimonial animation duration
+- Fixed bug with images not transitioning on mobile devices in Image Waterfall shortcode

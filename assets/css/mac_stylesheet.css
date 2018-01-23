@@ -1,0 +1,10 @@
+.carousel-inner .active .eltd-slider-content .eltd-text.one_by_one.from_top .eltd-el,
+.carousel-inner .active .eltd-slider-content .eltd-slider-content-inner.one_by_one.from_top,
+.carousel-inner .active .eltd-slider-content .eltd-text.one_by_one.from_left .eltd-el,
+.carousel-inner .active .eltd-slider-content .eltd-slider-content-inner.one_by_one.from_left,
+.carousel-inner .active .eltd-slider-content .eltd-text.one_by_one.from_right .eltd-el,
+.carousel-inner .active .eltd-slider-content .eltd-slider-content-inner.one_by_one.from_right,
+.carousel-inner .active .eltd-slider-content .eltd-text.one_by_one.from_bottom .eltd-el,
+.carousel-inner .active .eltd-slider-content .eltd-slider-content-inner.one_by_one.from_bottom{
+    -webkit-transform: none;
+}

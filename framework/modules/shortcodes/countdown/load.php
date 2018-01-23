@@ -1,0 +1,4 @@
+<?php
+
+include_once ELATED_FRAMEWORK_MODULES_ROOT_DIR.'/shortcodes/countdown/countdown.php';
+include_once ELATED_FRAMEWORK_MODULES_ROOT_DIR.'/shortcodes/countdown/custom-styles/countdown.php';
